@@ -128,7 +128,8 @@ Anda dapat mengelola tampilan tema langsung tanpa mengubah file kode:
      - Link Facebook, Twitter, Instagram, dan YouTube perpustakaan.
 4. Klik **Simpan Pengaturan (Save Settings)**, lalu muat ulang (*refresh*) halaman depan OPAC.
 
----
+---<img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/cc872b17-6236-48a5-846d-f4a2191f0181" />
+
 
 ## 📋 Kompatibilitas Sistem
 
