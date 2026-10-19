@@ -138,8 +138,4 @@ Anda dapat mengelola tampilan tema langsung tanpa mengubah file kode:
 - **Database**: MySQL 5.7+ / MariaDB 10.3+.
 - **Browser Support**: Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, Opera (Desktop & Mobile).
 
----
 
-## 📄 Lisensi
-
-Tema ini didistribusikan di bawah lisensi **GNU General Public License (GPL) v3**, sejalan dengan lisensi resmi **SLiMS (Senayan Library Management System)**. Bebas digunakan, dimodifikasi, dan dikembangkan untuk perpustakaan sekolah, universitas, instansi, maupun umum.
