@@ -98,7 +98,6 @@ template/brutalism/
    ```
 
 2. **Aktivasi Tema di Admin SLiMS**:
-   - Masuk ke panel admin SLiMS (`http://localhost/slims/admin/`).
    - Buka menu **Sistem (System)** > **Tema (Theme)**.
    - Pada daftar tema publik, cari **Brutalism**.
    - Klik tombol **Aktifkan (Activate)**.
