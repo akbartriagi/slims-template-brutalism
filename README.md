@@ -133,9 +133,24 @@ Anda dapat mengelola tampilan tema langsung tanpa mengubah file kode:
 
 ## 📋 Kompatibilitas Sistem
 
-- **SLiMS Version**: SLiMS 9 Bulian (v9.0.0 - v9.6.1 ke atas).
-- **PHP Version**: PHP 7.4, PHP 8.0, PHP 8.1, PHP 8.2+.
+- **SLiMS Version**: Tested on SLiMS 9.8 (Bulian D Roger).
+- **PHP Version**: PHP 8.2+.
 - **Database**: MySQL 5.7+ / MariaDB 10.3+.
 - **Browser Support**: Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, Opera (Desktop & Mobile).
+
+## Preiew Interface
+<img width="1908" height="952" alt="image" src="https://github.com/user-attachments/assets/7716ef0c-c427-453d-9f7f-2d68b56e8c5e" />
+<img width="1908" height="952" alt="image" src="https://github.com/user-attachments/assets/b3fa93d4-3f9b-4db3-b3ff-7c45943a1290" />
+<img width="1908" height="952" alt="image" src="https://github.com/user-attachments/assets/f5e66b44-ac26-42f0-921c-c56d1458cedb" />
+<img width="1908" height="952" alt="image" src="https://github.com/user-attachments/assets/8270bba4-a82c-47cf-8e28-5dc422b6c9e2" />
+<img width="1908" height="952" alt="image" src="https://github.com/user-attachments/assets/0d8ed45f-ff6d-4fba-897e-8a8acb29a11f" />
+<img width="1908" height="952" alt="image" src="https://github.com/user-attachments/assets/ac51a870-5a34-4f95-a2a5-8cc7af0cc26d" />
+<img width="1908" height="952" alt="image" src="https://github.com/user-attachments/assets/142e87d4-43a6-4fba-a5d7-0e07fc12b3d7" />
+
+
+
+
+
+
 
 
